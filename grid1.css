@@ -96,27 +96,6 @@ div#myDiv:before {
 .grid-container1 > div {
   background-color: #253F58;
   width: 250px;
-  height: 100px;
-  grid-auto-flow: column;
-  grid-area: 2 / 1 span 2 / span 3;
-  line-height: 1.5em;
-  /*   grid-column-start: 1 /  span 3;
- */
-}
-
-.grid-container2 > div {
-  background-color: #5C868D;
-  width: 250px;
-  height: 100px;
-  line-height: 1.5em;
-
-}
-
-.grid-container3 > div {
-  background-color: #A58E87;
-  width: 250px;
-  height: 100px;
-  line-height: 1.5em;
 }
 
 .grid-container4 > div {
